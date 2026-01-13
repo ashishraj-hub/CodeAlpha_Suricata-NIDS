@@ -1,4 +1,4 @@
-# Network Intrusion Detection System (NIDS) using Suricata
+# 🛡️Network Intrusion Detection System (NIDS) using Suricata
 
 ## 📌 Project Overview
 This project demonstrates the implementation of a **Network Intrusion Detection System (NIDS)** using **Suricata** on **Kali Linux**.  
