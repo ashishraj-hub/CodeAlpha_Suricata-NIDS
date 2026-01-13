@@ -41,7 +41,6 @@ The system monitors live network traffic and detects suspicious or malicious act
 ## 📂 Files Included
 - `local.rules` – Custom Suricata detection rules
 - `README.md` – Project documentation
-- `screenshots/` – Proof of detection and alerts
 
 ---
 
@@ -57,3 +56,6 @@ The system monitors live network traffic and detects suspicious or malicious act
 
 Cybersecurity Enthusiast | Network Security
 
+GitHub: [ashishraj-hub](https://github.com/ashishraj-hub)
+
+LinkedIn: [linkedin.com/in/ashish-raj-ashishraj/](https://www.linkedin.com/in/ashish-raj-ashishraj/)
